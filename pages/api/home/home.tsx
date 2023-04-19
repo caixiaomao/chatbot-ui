@@ -367,6 +367,7 @@ const Home = ({
           content="height=device-height ,width=device-width, initial-scale=1, user-scalable=no"
         />
         <link rel="icon" href="/favicon.ico" />
+        <script async src="https://umami.caixiaomao.cn/script.js" data-website-id="02486a49-0b53-44e0-a420-2afe6a463f08"></script>
       </Head>
       {selectedConversation && (
         <main
